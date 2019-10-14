@@ -1,5 +1,5 @@
 ## 20191014
-
+local commands and ...
 -'init': initializes folder as a git repository
 -'status': looks at the current status
 -'add': add files to staging area
